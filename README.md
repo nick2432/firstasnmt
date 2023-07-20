@@ -1,6 +1,6 @@
-### 'npm i react-icons'
+### install 'npm i react-icons'
 React Icons is a popular library that provides a comprehensive collection of customizable icons for your React applications. It simplifies the process of integrating icons into your UI components and offers a wide range of icon packs to choose from.
-### 'npm i react-router-dom'
+### install 'npm i react-router-dom'
 React Router Dom is a widely used library for handling routing in React applications. It allows you to create a Single Page Application (SPA) with multiple views and navigational components.
 # Getting Started with Create React App
 
