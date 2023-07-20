@@ -1,3 +1,7 @@
+### 'npm i react-icons'
+React Icons is a popular library that provides a comprehensive collection of customizable icons for your React applications. It simplifies the process of integrating icons into your UI components and offers a wide range of icon packs to choose from.
+### 'npm i react-router-dom'
+React Router Dom is a widely used library for handling routing in React applications. It allows you to create a Single Page Application (SPA) with multiple views and navigational components.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,7 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-### 'npm i react-icons'
-React Icons is a popular library that provides a comprehensive collection of customizable icons for your React applications. It simplifies the process of integrating icons into your UI components and offers a wide range of icon packs to choose from.
-### 'npm i react-router-dom'
-React Router Dom is a widely used library for handling routing in React applications. It allows you to create a Single Page Application (SPA) with multiple views and navigational components.
+
