@@ -1,9 +1,9 @@
 .homebackground{
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    margin-top: 70px;
+    height: 100%;
    
+    position: relative;
     align-items: center;
     gap: 20px;
 }
@@ -62,7 +62,6 @@ input::placeholder {
     background-color: rgb(255, 255, 255);
 }
 .menu{
-    height: 600px;
     display: flex;
     flex-wrap: wrap;
     overflow-y: scroll;

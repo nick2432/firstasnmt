@@ -39,6 +39,16 @@ let menu =[
         "name":"Regular",
         "price":"1190",
     },
+    {
+        "url":require('./Screenshot from 2023-07-18 00-41-03.png'),
+        "name":"Regular",
+        "price":"1760",
+    },
+    {
+        "url":require('./Screenshot from 2023-07-18 00-39-43.png'),
+        "name":"Regular",
+        "price":"1190",
+    },
 ];
 export default function Home(props) {
     const [isall, setisall] = useState(1);
